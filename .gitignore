@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.log
+*.class
+*.jar
+build/
+tmp/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/

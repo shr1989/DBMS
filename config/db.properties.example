@@ -1,0 +1,11 @@
+# Optional. Copy to config/db.properties to override the defaults below.
+# Environment variables with the same names take priority over this file.
+# This file is read only by the Java backend and is never served to the browser.
+
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=hotel_management
+# Defaults to your macOS user name when left out.
+# DB_USER=
+# Local PostgreSQL uses trust authentication, so no password is needed.
+# DB_PASSWORD=
